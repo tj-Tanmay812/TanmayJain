@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tj-Tanmay812
+- 👋 Hi, I’m Tanmay Jain
 - 👀 I’m interested in python and fiction novels.
 - 🌱 I’m currently learning python, C, and HTML.
 - 📫 How to reach me: jaintanmay812@gmail.com
