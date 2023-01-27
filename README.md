@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanmay Jain
 - 👀 I’m interested in python and fiction novels.
-- 🌱 I’m currently learning python, C, and HTML.
+- 🌱 I’m currently learning python, HTML, git and CSS.
 - 📫 How to reach me: jaintanmay812@gmail.com
 
 <!---
